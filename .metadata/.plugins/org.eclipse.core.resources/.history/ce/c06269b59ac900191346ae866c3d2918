@@ -1,0 +1,21 @@
+package demo13;
+
+public class HastTable {
+
+	private StuInfo[] data = new StuInfo[Integer.MAX_VALUE];
+	
+	/**
+	 * 向散列列表中添加元素
+	 * @param stuInfo
+	 */
+	public void put(StuInfo stuInfo) {
+		//调用散列函数获取存储位置
+		int index = stuInfo.hashCode();
+		//添加元素
+		data[index] = stuInfo;
+	}
+	
+	public StuInfo get(StuInfo stuInfo) {
+		return data[stuInfo.hashCode()];
+	}
+}

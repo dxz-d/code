@@ -1,0 +1,9 @@
+package adapter.ClassAdapterExample;
+
+
+public class ReadXML {
+	
+	public static Object getObject() {
+		
+	}
+}

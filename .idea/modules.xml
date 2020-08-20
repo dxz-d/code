@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics.iml" filepath="$PROJECT_DIR$/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPattern.iml" filepath="$PROJECT_DIR$/CreationalPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Principle.iml" filepath="$PROJECT_DIR$/Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPattern.iml" filepath="$PROJECT_DIR$/StructuralPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XiaoHuiArithmetic.iml" filepath="$PROJECT_DIR$/XiaoHuiArithmetic.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+package proxy;
+
+/**
+ * 
+ * @author ky
+ * 代理者模式：例如：比如说找工作的中介，买票的12306
+ */
+public class ProxyTest {
+
+	public static void main(String[] args) {
+
+		Proxy proxy = new Proxy();
+		proxy.Request();
+	}
+
+}

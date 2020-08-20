@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8af4f8ad-66ba-447f-99c6-e283034c12a0" name="Default Changelist" comment="java的数据结构、算法以及设计模式">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.bak_0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.bak_1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/0/40f825bb2fcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1/80c6a89730cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/10/4021e38a8bcd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/10/b07ef06e75ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/11/602b939790cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/11/f003d18837cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/11/f09eaa3c85cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/14/801793dd97c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/17/703bbcfe99cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/17/a0d374486eca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/19/50542a9a9bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/20/a01907c0d9c8001918e0f9de6c717329" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/21/10f14dd42fcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/22/80557ce824c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/23/408bd7cd25c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/23/60748bd925c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/26/2078768f32cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/26/508cee6197cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/27/005cc0c82ccb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/29/10727ca925c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2a/7053e73866ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2a/70c3fa1b64ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2a/f002158c98c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2c/c0b8ccf078bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/30/000ec5e473ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/30/c0831d536dca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/33/50e6c7f024c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/34/b05142e0d6c8001918e0f9de6c717329" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/36/10e747ab27cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/36/40cd399399cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/38/0052c54636cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/38/f01afbe298c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/39/a0bf537798c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3b/20a651529ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3b/b0a3ab4994cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3e/a0daaad670ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3f/60d154e999c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/45/a0a7530a0fbf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/48/a0cff1de40c0001911d0ebe56a9daead" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4a/e099345a36cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4e/20a647810cbf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4e/9080245136cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4e/e0d3561b25c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4f/302ebeeb73ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4f/80455df973ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/50/d064e3d636cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/56/f09f355e9ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/57/8091bf7c37cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/57/c04b2beb6dca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/57/c0f0ce8b2ecb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/59/0017980526cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5a/00f3318a40c0001911d0ebe56a9daead" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5b/e0d9fed627cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5c/504843df33cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5c/f0bec26d37cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/60/e07c92b7d2cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/64/20c70d5796cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/64/a0ecc48a6ebf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/65/9083421b7abf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/65/90ca442b33cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/65/a006a54786cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/66/40f49d05a0c400191f2f97609c355cfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/67/00271df02dcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6f/40571b8b75ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6f/808bceb027cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/a0ed1d406dca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/77/b0afdb1c37cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7a/60e0a13579bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7a/a07ff3a677bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7c/204fd91ed1cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7d/00334cf727cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7d/202f4b9970ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7d/c0af7e946cca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7e/70f8721e79bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7e/90b6d38f72ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7f/0080cb55cecc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/82/d0e456449bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/84/70a52d1f25c4001911a58c698afa4170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/84/80db6d3b9bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/86/80476ad230cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8b/d08fa65f70ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8d/60ef07472dcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8d/80801bba97c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8e/10b4b04c28cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8e/3009d19c2ecb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8f/f038568431cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/91/2076936b27cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/93/9084482d98c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/95/00ccb3ec27cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/95/00e83dd670ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/97/b0e2f94a30cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/98/208682578fcd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/98/c03342a375ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9b/40a054bc9ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9b/f0c1ab9466ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9c/80422dc430cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9d/00df2b5e97cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/201239d899cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/5099d83586cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/9043acb589cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9f/2091b08e63ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9f/700c2c2238cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9f/b0ba767f86cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a2/201dadc26aca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a4/b0b8900937cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a4/c0d268112dcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a8/401dc8c38fcd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a8/a084b09a71bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a9/d047616194cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b1/40e414f08bcd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b3/a0e63f057abf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b3/c0a79d3f36cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b7/b0eb9ffa0fbf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b8/20de6f753dcb001916b0a1187c66fb04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b8/907a937e99c200191565fc7c18b27a58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b8/e096fded73ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b9/d0bd2e4372ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ba/30ef485c8ccd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ba/c02be3c98acd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ba/f031edf699c900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bb/10feb27e2ccb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bf/20a2aab875bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bf/30812f0130cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c/10dd5f509bc200191565fc7c18b27a58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c/70b0da9899cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c0/d0a5e160d9c8001918e0f9de6c717329" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c0/f05912c19bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c1/90610d0333cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c2/f032a6730ebf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c3/206a03c867ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c3/80aa5d879ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c4/90178bd767ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c4/c0c621d327cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c5/7075c8d566ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c7/4009c13630cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c7/60fca91f7abf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c8/90f6588698c00019139af3eedc5e9b7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c8/d05686fad1cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ca/30ef29fb73ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cd/c0e28ffa8ccd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ce/c06269b59ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cf/20462f019bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d/10ea62ea8bcd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d/206ef6972ccb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d0/30971b3a36cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d1/a0f306f20ebf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d2/708594197abf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d2/808f0f2471bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d3/5008e5d770ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d3/f012ef7027cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d7/c07c39f622cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/db/5070cfb92ccb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/dc/9053229375bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/dd/a0c03f4b40c0001911d0ebe56a9daead" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/de/d01cb72133cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/df/20d10345d1cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/df/4050c18875bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/df/605f08a130cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e1/d05a04b193cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e3/10559edf3dcb001916b0a1187c66fb04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e6/e02322b20ebf0019110eef01239023d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e7/2057707273bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e7/600fba8427cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e9/0081b8c984cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e9/50b068a19ac900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ea/10545b519bc200191565fc7c18b27a58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/eb/702a509627cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/eb/8095203397cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/eb/90d0ba5075bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ef/809195713acb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ef/90cfa8bf6ebf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f/c06d11a43dcb001916b0a1187c66fb04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f/c0bd34ec73ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f0/c06a525d2dcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f1/20518a4d75bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f1/908b93b379bf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f3/10fc41c266ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f4/20ce936c32cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f5/10ec10c62fcb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f5/20dca50f95cd0019136cff8b2325f373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f5/c0c6532a26cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f7/e0fb7e5c32cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f8/40fa9c3e2ecb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f9/d02d45039bc900191346ae866c3d2918" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fb/c0949ce733cb00191311da4f3c17e90c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fc/a01f01c3d2cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fc/b0f9c9a963ca001915d790249a0bcbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fc/d00e38ff7abf0019189aadad79212e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fd/5098820bd1cc0019190fea0ddcfb35aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Basics/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Basics/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/CreationalPattern/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/CreationalPattern/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/CreationalPattern/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.indexes/e4/9e/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.indexes/e4/ba/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.indexes/e4/bb/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/DataStructuresAndAlgorithms/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Principle/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Principle/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Principle/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/StructuralPattern/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/StructuralPattern/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/1/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/23/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/a7/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/c3/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/c6/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/c8/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.indexes/e4/fd/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/XiaoHuiArithmetic/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/20.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/20.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/Cloud Foundry.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.collabnet.subversion.merge.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ajdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.core.prefs.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.configurator.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.frameworks.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.dashboard.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.tigris.subversion.subclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BilateralLoop.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BinaryHeapTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BinaryTreeTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort (2).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort (3).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort (4).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort1.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/BucketSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/ClassAdapterTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Cocktail.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/CountSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/DataStructuresAndAlgorithms-TestBinarySortTree.java.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/HeapSort (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/HeapSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/LinkedListTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/LoopQueueTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/MiddleInsert.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/MotorAdapterTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/NodeObjectQuote.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/NotRecursionQuickSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/ObjectAdapterTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/OptimizeCountSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/OutOfScopeInsert.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/PriorityQueenTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/ProxyTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/QuickSort (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/QuickSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/RadixSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/SynchronizedTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestArrayBinaryTree.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestBinarySortTree (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestBinarySortTree.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestGraph.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestHashTable.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestHuffmanCode.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestHuffmanTree.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestThreadBinaryTree.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TestThreadThreadedBinaryTree.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Tn.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/TwoWayTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/UnilateralLoopQuickSort.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/VolatileTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/WySpecailtyProxy.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/gfdg.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1063463515.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1197506341.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1407800360.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1555987366.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1676835774.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2365447685.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2376168676.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2533072252.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2555648124.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2768486795.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3065498786.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3076403762.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3228001683.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3364409871.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3736314247.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3767884834.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3918391753.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4012938512.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/534054012.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/646663704.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/658017227.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/779872769.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/883737125.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/956915590.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/33/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/33/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/35/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/35/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CreationalPattern/2019/8/33/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CreationalPattern/2019/8/33/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/33/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/33/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/34/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/34/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/35/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DataStructuresAndAlgorithms/2019/8/35/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/StructuralPattern/2019/8/33/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/StructuralPattern/2019/8/33/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/XiaoHuiArithmetic/2019/8/35/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/XiaoHuiArithmetic/2019/8/35/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.10.0.20181127-2120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190612-1550.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fmarketplace.eclipse.org%2Frss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fplaneteclipse.org%2Fplanet%2Frss20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Frecommenders%2Ffeeds%2Fide.rss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.mybatis.generator.eclipse.ui/.generatedAntScripts/DataStructuresAndAlgorithms-TestBinarySortTree.java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/bootstrap/css/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/bootstrap/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/application.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/flexbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/fontcustom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/markdown-content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/panes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/tools.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/css/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/font-custom/fontcustom.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/blog_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/bug_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/comparison_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/compass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/compass_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/extension.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/extension_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/forum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/forum_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/guides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/guides_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/logo_bigleaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/logo_spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/logo_sts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/new_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/overlay-incoming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/spring-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/springdocs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/img/springdocs_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/js/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/js/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/js/guide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/common/js/modernizer.flexbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566313838531/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.tigris.subversion.subclipse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.recommenders/caches/manual-mappings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/Operation/Three.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/iterview/IandI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/memoryModel/SynchronizedTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/memoryModel/SynchronizedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/memoryModel/VolatileTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/memoryModel/VolatileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/stack/Peek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/stack/Pop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/stack/Push.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/string/CharAt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/string/IsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/bin/string/Substring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/Operation/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/iterview/IandI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/memoryModel/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/memoryModel/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/stack/Peek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/stack/Pop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/stack/Push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/string/CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/string/IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/string/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/AddOneToHundred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestMyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestMyArraySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestOpArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestOpArray2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/TestSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo1/util/MyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo10/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo10/TestHuffmanCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo11/BinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo11/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo11/TestBinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo12/BinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo12/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo12/TestBinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo13/HastTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo13/StuInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo13/TestHashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo14/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo14/TestGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo14/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/DoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/LoopNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/test/TestDoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/test/TestLoopNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/test/TestMyQyuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/test/TestMyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo2/test/TestNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo3/TestFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo3/TestHanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo3/TestRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo4/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo5/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo5/TestThreadedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo5/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo6/ArrayBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo6/TestArrayBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo7/TestThreadThreadedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo7/ThreadNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo7/ThreadedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo9/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/demo9/TestHuffmanTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/sort/BubbleSort1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/bin/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/AddOneToHundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestMyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestMyArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestOpArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestOpArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo1/util/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo10/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo10/TestHuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo11/BinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo11/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo11/TestBinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo12/BinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo12/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo12/TestBinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo13/HastTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo13/StuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo13/TestHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo14/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo14/TestGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo14/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/LoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/test/TestDoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/test/TestLoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/test/TestMyQyuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/test/TestMyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo2/test/TestNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo3/TestFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo3/TestHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo3/TestRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo4/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo5/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo5/TestThreadedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo5/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo6/ArrayBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo6/TestArrayBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo7/TestThreadThreadedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo7/ThreadNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo7/ThreadedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo9/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/demo9/TestHuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/sort/BubbleSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/src/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/A_Cattle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/AnimalFram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Cattle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/CattleFram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/FarmTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Fruitage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/HorseFarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/P_Vegetables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Plant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/ReadXML2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/SGfarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/SRfarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/Vegetable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/AbstractFactory/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Bajie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/ConcreateBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Builder/创建者模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/AbstractFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/AbstractFactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/ConcreteFactory1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/ConcreteFactory2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/ConcreteProduct1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/ConcreteProduct2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/ReadXml1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod/config1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/A_Cattle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/A_Horse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/AnimalFram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/AnimalFramTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/Cattle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/CattleFram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/HorseFarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/ReadXML2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/FactoryMethod01/config2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/Wukong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype01/ProtoTypeWuKong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype01/Realizable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype01/RealizableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype01/SunWuKong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype02/Citation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype02/ProtoTypeCitation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype03/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype03/ProtoType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype03/ProtoTypeManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype03/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/prototype03/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/BaJie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/HungrySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/LazySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/President.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/SingletonEager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/SingletonLazyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/bin/singleton/单例模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/A_Cattle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/AnimalFram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Cattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/CattleFram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/FarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Fruitage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/HorseFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/P_Vegetables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/ReadXML2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/SGfarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/SRfarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/AbstractFactory/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Bajie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/ConcreateBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Builder/创建者模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/AbstractFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/ConcreteProduct1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/ConcreteProduct2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/ReadXml1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod/config1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/A_Cattle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/A_Horse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/AnimalFram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/AnimalFramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/Cattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/CattleFram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/HorseFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/ReadXML2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/FactoryMethod01/config2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/Wukong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype01/ProtoTypeWuKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype01/Realizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype01/RealizableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype01/SunWuKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype02/Citation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype02/ProtoTypeCitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype03/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype03/ProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype03/ProtoTypeManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype03/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/prototype03/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/BaJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/SingletonLazyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/src/singleton/单例模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/CreationalPattern/创建型模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/dip/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/dip/DIPtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/dip/ShaoGuanShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/dip/Shop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/dip/WuYuanShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/isp/CountModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/isp/ISPtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/isp/InputModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/isp/PrintModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/isp/StuScoreList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lod/Agent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lod/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lod/Fans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lod/LodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lod/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lsp/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lsp/BrownKiwi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lsp/LSPtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/bin/lsp/Swallow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/dip/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/dip/DIPtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/dip/ShaoGuanShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/dip/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/dip/WuYuanShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/isp/CountModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/isp/ISPtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/isp/InputModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/isp/PrintModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/isp/StuScoreList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lod/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lod/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lod/Fans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lod/LodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lod/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lsp/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lsp/BrownKiwi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lsp/LSPtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/src/lsp/Swallow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Principle/设计模式7大原则" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Construtors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/DemoTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Main01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/MethodClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Student01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Student02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Student03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/Student04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/TargetObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/interview/reflect/pro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/META-INF/StructuralPattern.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapter/ClassAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapter/ClassAdapterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/ElectricAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/ElectricMotor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/Motor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/MotorAdapterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/OpticalMotor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/ReadXML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ClassAdapterExample/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ObjectAdapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ObjectAdapter/ObjectAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ObjectAdapter/ObjectAdapterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/ObjectAdapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/AdapterRealize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/TargetRealize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/TwoWayAdaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/TwoWayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/TwoWayTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/bathway/TwoWayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/adapter/代理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/bridge/Abstraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/bridge/BridgeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/bridge/ConcreteImplementorA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/bridge/Implementor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/bridge/RefinedAbstraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo01/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo01/ConcreteComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo01/ConcreteDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo01/Decorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo01/DecoratorPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Changer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Girl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/MerrigabAensland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Morrigan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Morrigan0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Morrigan1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Morrigan2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Original.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/demo02/Succubus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/decorator/装饰模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/Proxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/ProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/RealSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/proxyExample/SgProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/proxyExample/Specailty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/proxyExample/WuyuanSpecialty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/proxyExample/WySpecailty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/bin/proxy/proxyExample/WySpecailtyProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapter/ClassAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapter/ClassAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/ElectricAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/ElectricMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/MotorAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/OpticalMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/ReadXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ClassAdapterExample/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ObjectAdapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ObjectAdapter/ObjectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ObjectAdapter/ObjectAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/ObjectAdapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/AdapterRealize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/TargetRealize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/TwoWayAdaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/TwoWayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/TwoWayTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/bathway/TwoWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/adapter/代理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/bridge/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/bridge/BridgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/bridge/ConcreteImplementorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/bridge/Implementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/bridge/RefinedAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo01/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo01/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo01/ConcreteDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo01/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo01/DecoratorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Changer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/MerrigabAensland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Morrigan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Morrigan0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Morrigan1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Morrigan2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Original.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/demo02/Succubus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/decorator/装饰模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/SgProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/Specailty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/WuyuanSpecialty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/WySpecailty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/WySpecailtyProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StructuralPattern/结构型模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p102/PriorityQueen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p102/PriorityQueenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p110/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p114/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p117/Cocktail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p12/Tn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p124/BilateralLoopQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p127/UnilateralLoopQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p129/NotRecursionQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p135/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p140/CountSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p144/OptimizeCountSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p147/BucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p157/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p157/NodeObjectQuote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p165/MinsStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p165/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p167/EnumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p169/EuclideanAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p170/MorePhaseSubtraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p172/GcdTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p174/TwoPower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p177/TwoPower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p183/Bucket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p183/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p190/StackQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p195/Sort45132.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p200/GreedyAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p202/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p210/Summation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p217/GoldOre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p221/TwoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p223/GoldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p228/FindLostNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p239/BitmapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p248/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p248/LRUTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p248/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p259/ASearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p259/AStar$Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p259/AStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p259/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p266/QueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p28/MiddleInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p28/MyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p30/MyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p30/OutOfScopeInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p39/LinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p39/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p39/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p49/LoopQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p49/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p78/BinaryTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p78/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/bin/p96/BinaryHeapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p102/PriorityQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p102/PriorityQueenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p110/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p111/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p114/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p117/Cocktail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p12/Tn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p124/BilateralLoopQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p127/UnilateralLoopQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p129/NotRecursionQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p135/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p140/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p144/OptimizeCountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p147/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p157/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p157/NodeObjectQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p165/MinsStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p165/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p167/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p169/EuclideanAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p170/MorePhaseSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p172/GcdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p174/TwoPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p177/TwoPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p183/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p183/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p190/StackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p195/Sort45132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p200/GreedyAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p202/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p210/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p217/GoldOre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p221/TwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p223/GoldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p228/FindLostNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p239/BitmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p248/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p248/LRUTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p248/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p259/ASearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p259/AStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p259/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p266/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p28/MiddleInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p28/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p30/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p30/OutOfScopeInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p39/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p39/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p39/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p49/LoopQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p49/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p78/BinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p78/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XiaoHuiArithmetic/src/p96/BinaryHeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/META-INF/Interview.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Construtors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Fields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Main01Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/MethodClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/ReflectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Student01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Student02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/Student03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Interview/com/interview/reflect/TargetObject.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\code\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnSCT1l41z6Ix7Fblsc3atWy7h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\StructuralPattern\src\decorator\demo02" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="decorator.demo02" />
+      <recent name="decorator.demo01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main01Test">
+    <configuration name="Construtors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.reflect.Construtors" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.reflect.Fields" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.reflect.Main01Test" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.reflect.MethodClass" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.reflect.ReflectTest" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.49" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main01Test" />
+        <item itemvalue="Application.MethodClass" />
+        <item itemvalue="Application.Fields" />
+        <item itemvalue="Application.Construtors" />
+        <item itemvalue="Application.ReflectTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\12057\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af4f8ad-66ba-447f-99c6-e283034c12a0" name="Default Changelist" comment="" />
+      <created>1575990738167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575990738167</updated>
+      <workItem from="1575990749022" duration="937000" />
+      <workItem from="1576023445755" duration="2122000" />
+      <workItem from="1584478666299" duration="6000" />
+      <workItem from="1586146169752" duration="15896000" />
+      <workItem from="1586221395063" duration="19000" />
+      <workItem from="1595319072913" duration="5831000" />
+      <workItem from="1595376786811" duration="11292000" />
+      <workItem from="1595463553404" duration="1648000" />
+      <workItem from="1595515727269" duration="22000" />
+      <workItem from="1595604354292" duration="1644000" />
+      <workItem from="1595811790651" duration="259000" />
+      <workItem from="1597916899329" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1595400259511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595400259511" />
+    <state x="453" y="131" width="1091" height="810" key="CommitChangelistDialog2" timestamp="1597917164976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="131" width="1091" height="810" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597917164976" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1597917139832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597917139832" />
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1595409983429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595409983429" />
+    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1595409983429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595409983429" />
+    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1595409983429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595409983429" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1595409983429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595409983429" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1597917020604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597917020604" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597917243103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597917243103" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595811790439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595811790439" />
+    <state x="691" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1597917097194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597917097194" />
+    <state x="334" y="129" key="new project wizard" timestamp="1595319172088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595319172088" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595404476761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595404476761" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/../" />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

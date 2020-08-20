@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/Proxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/ProxyTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/RealSubject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/Subject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/SgProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/StructuralPattern/src/proxy/proxyExample/Specailty.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/XiaoHuiArithmetic/src/p110/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XiaoHuiArithmetic/src/p111/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XiaoHuiArithmetic/src/p127/UnilateralLoopQuickSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/XiaoHuiArithmetic/src/p157/NodeObjectQuote.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XiaoHuiArithmetic/src/p30/OutOfScopeInsert.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

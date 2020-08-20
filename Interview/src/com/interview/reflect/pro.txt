@@ -1,0 +1,2 @@
+className = com.interview.reflect.Student04
+methodName = show

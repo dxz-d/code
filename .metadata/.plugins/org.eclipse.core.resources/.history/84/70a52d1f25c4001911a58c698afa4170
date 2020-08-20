@@ -1,0 +1,21 @@
+package adapter.ClassAdapterExample;
+
+import java.io.File;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+
+public class ReadXML {
+	
+	public static Object getObject() throws Exception {
+		DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder builder = dFactory.newDocumentBuilder();
+		
+		builder.parse(new File("src/adapter/ClassAdapterExample/config.xml"));
+		NodeList nl = doc.getElementsByTagName("className");
+		return null;
+	}
+}

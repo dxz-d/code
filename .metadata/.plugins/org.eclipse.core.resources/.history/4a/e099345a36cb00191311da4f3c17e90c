@@ -1,0 +1,10 @@
+package sort;
+
+public class gfdg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("aaa\tbbbb");//输出结果就是“aaaaaa bbbb”；
+	}
+
+}
